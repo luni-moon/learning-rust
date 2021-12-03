@@ -106,6 +106,6 @@ I expect to have learned the basics of Rust in about 3-4 months
   - [ ] **21.4.** D - Useful Development Tools
   - [ ] **21.5.** E - Editions
   - [ ] **21.6.** F - Translations of the Book
-  - [ ] **21.7.** G - Hpw Rust is Made and "Nightly Rust"
+  - [ ] **21.7.** G - How Rust is Made and "Nightly Rust"
 
 *Note: This Table of Contents and Progress List is up to date as of 12/02/2021, Please understand that this project could be abandoned at anytime. Thank you!*
