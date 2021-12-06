@@ -1,0 +1,1 @@
+/Volumes/GameHogPlays\ 2TB\ External\ HD/Programming/VSCode/learning-rust/Chapter\ 3/variables/target/debug/variables: /Volumes/GameHogPlays\ 2TB\ External\ HD/Programming/VSCode/learning-rust/Chapter\ 3/variables/src/main.rs
