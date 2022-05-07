@@ -1,15 +1,15 @@
 # Learning Rust In Public
 ## Timeframe Expected
-I expect to have learned the basics of Rust in about 3-4 months
+I expect to have learned the basics of Rust in about 8-9 months
 
 ## Source of Learning
 [Rust-Lang Learning Book (on the official site)](https://doc.rust-lang.org/book/)
 
 ## My Progress
-- [ ] **1.** Getting Started
-  - [ ] **1.1.** Installation
-  - [ ] **1.2.** Hello, World!
-  - [ ] **1.3.** Hello, Cargo!
+- [x] **1.** Getting Started
+  - [x] **1.1.** Installation
+  - [x] **1.2.** Hello, World!
+  - [x] **1.3.** Hello, Cargo!
 - [ ] **2.** Programming a Guessing Game
 - [ ] **3.** Common Programming Concepts
   - [ ] **3.1.** Variables and Mutability

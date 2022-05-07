@@ -1,0 +1,1 @@
+/Volumes/LNB\ 5TB/Programming/VSCode/BatemaDevelopment/learning-rust/Chapter\ 1/hello_cargo/target/debug/hello_cargo: /Volumes/LNB\ 5TB/Programming/VSCode/BatemaDevelopment/learning-rust/Chapter\ 1/hello_cargo/src/main.rs
