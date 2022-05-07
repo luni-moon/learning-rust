@@ -6,13 +6,13 @@ I expect to have learned the basics of Rust in about 3-4 months
 [Rust-Lang Learning Book (on the official site)](https://doc.rust-lang.org/book/)
 
 ## My Progress
-- [x] **1.** Getting Started
-  - [x] **1.1.** Installation
-  - [x] **1.2.** Hello, World!
-  - [x] **1.3.** Hello, Cargo!
-- [x] **2.** Programming a Guessing Game
+- [ ] **1.** Getting Started
+  - [ ] **1.1.** Installation
+  - [ ] **1.2.** Hello, World!
+  - [ ] **1.3.** Hello, Cargo!
+- [ ] **2.** Programming a Guessing Game
 - [ ] **3.** Common Programming Concepts
-  - [x] **3.1.** Variables and Mutability
+  - [ ] **3.1.** Variables and Mutability
   - [ ] **3.2.** Data Types
   - [ ] **3.3.** Functions
   - [ ] **3.4.** Comments

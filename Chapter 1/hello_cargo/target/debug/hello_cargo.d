@@ -1,1 +1,0 @@
-/Volumes/GameHogPlays\ 2TB\ External\ HD/Programming/VSCode/learning-rust/Chapter\ 1/hello_cargo/target/debug/hello_cargo: /Volumes/GameHogPlays\ 2TB\ External\ HD/Programming/VSCode/learning-rust/Chapter\ 1/hello_cargo/src/main.rs
